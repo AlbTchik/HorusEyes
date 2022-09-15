@@ -2,7 +2,7 @@
 
 **Date de réalisation :** Septembre-Decembre 2022
 <br> <br>
-**Cadre du projet :** Ce projet revisite le sujet passionnant de la surveillance de la Terre depuis le Ciel, afin de l'appliquer aux Réseaux de Neurones.
+**Cadre du projet :** Ce projet m'as permis d'appliquer la reconnaissance d'images satellites aux réseaux de neurones.
 <br> <br>
 **Mots-clés :** Neural Networks, Computer Vision, Satellite Imagery, Civilan & Military Aircrafts
 <br>
