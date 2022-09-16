@@ -7,7 +7,7 @@
 **Mots-clés :** Neural Networks, Computer Vision, Satellite Imagery, Civilan & Military Aircrafts
 <br>
 ## Présentation du projet
-Ce projet présente le dévloppement d'un détecteur automatique d'avions à partir d'images satellites en utilisant un modèle de Deep Learning.
+Ce projet présente le développement d'un détecteur automatique d'avions, à partir d'images satellites, en utilisant un modèle de Deep Learning.
 Le but étant de réaliser une étude scientifique aboutissant sur un modèle fonctionnel.
 Dans celle-ci, on cherchera a mettre en place un modèle puis on comparera les performances obtenus avec celles de l'état de l'art, en émettant des critiques et en proposant des pistes d'interprétation.
 <br><br>
