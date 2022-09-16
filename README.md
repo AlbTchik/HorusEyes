@@ -4,7 +4,7 @@
 <br> <br>
 **Cadre du projet :** Reconnaissance d'objets sur des images satellites en utilisant les réseaux de neurones.
 <br> <br>
-**Mots-clés :** Neural Networks, Computer Vision, Satellite Imagery, Civilan & Military Aircrafts
+**Mots-clés :** Neural Networks, Computer Vision, Satellite Imagery, Civilian & Military Aircrafts
 <br>
 ## Présentation du projet
 Ce projet présente le développement d'un détecteur automatique d'avions, à partir d'images satellites, en utilisant un modèle de Deep Learning.
