@@ -1,6 +1,6 @@
 # L'Oeil d'Horus
 
-**Date de réalisation :** Septembre-Decembre 2022
+**Date de réalisation :** Septembre-Decembre 2022, projet personnel
 <br> <br>
 **Cadre du projet :** Ce projet m'as permis d'appliquer la reconnaissance d'objets sur des images satellites aux réseaux de neurones.
 <br> <br>
