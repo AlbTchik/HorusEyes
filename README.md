@@ -1,4 +1,4 @@
-# HorusEyes
+# L'Oeil d'Horus
 
 **Date de réalisation :** Septembre-Decembre 2022
 <br> <br>
