@@ -7,7 +7,7 @@
 **Mots-clés :** Neural Networks, Computer Vision, Satellite Imagery, Civilan & Military Aircrafts
 <br>
 ## Présentation du projet
-Vous trouverez ici le fameux detecteur automatique d'avions à partir d'images satellites.
+Vous trouverez ici un détecteur automatique d'avions à partir d'images satellites.
 Le but étant de réaliser une étude scientifique, aboutissant sur un modèle fonctionnel.
 Puis on cherchera a comparer ses performances avec l'état de l'art, en émettant des critiques et en proposant des pistes.
 <br><br>
