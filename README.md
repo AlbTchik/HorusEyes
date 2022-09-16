@@ -20,7 +20,7 @@ Cela illustre bien la nécessitée d'observer le dispositif adverse afin de dét
 Dans les temps anciens, cette mission était remplie par une force de cavalerie légère appelée les Scouts.
 Ils étaient les yeux et les oreilles de l'armée, informant le commandement des moindres mouvements de l'ennemi. <br>
 <br>
-De nos jours cette tâche s'est adapté a la guerre modrne et est principalmeent réalisée au travers des satellites.
+De nos jours cette tâche s'est adapté a la guerre moderne et est principalement réalisée au travers des satellites.
 Ceux-ci génèrent de nombreuses images sur l'état des zones observés. Que des analystes bien entrainés peuvent étudier pour en extraire l'intelligence, permettant au commandement de prendre les décisions adaptés.
 <br>
 ## Problématique
