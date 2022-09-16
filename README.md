@@ -21,7 +21,7 @@ Dans les temps anciens, cette mission était remplie par une force de cavalerie 
 Ils étaient les yeux et les oreilles de l'armée, informant le commandement des moindres mouvements de l'ennemi. Et, au travers de l'histoire, on peut observer de nombreux exemples de batailles perdues par la faute d'une reconnaissance insuffisante. <br>
 <br>
 De nos jours cette tâche s'est adaptée à la guerre moderne et est principalement réalisée au travers des drones et des satellites.
-Ceux-ci génèrent de nombreuses images montrant l'état des zones observées. Des analystes bien entrainés peuvent ensuite les étudier, pour en extraire les informations d'intelligence stratégique, qui vont permettre au commandement de prendre les décisions adaptés, en appliquant la fameuse phrase de Sun Tzu.
+Ceux-ci génèrent de nombreuses images montrant l'état des zones observées. Des analystes bien entrainés peuvent ensuite les étudier, pour en extraire les informations d'intelligence stratégique, qui vont permettre au commandement de prendre les décisions adaptés.
 <br>
 ## Problématique
 Le problème se situe dans la quantité très importante de données a analyser. Car il faut environ une demi-journée à un analyste pour évaluer l'état d'un petit aéroport. De plus ces données sont renouvelées très rapidement, souvent une fois par jours, parfois plus.
