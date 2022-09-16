@@ -11,11 +11,11 @@ Vous trouverez ici le fameux detecteur automatique d'avions à partir d'images s
 Le but étant de réaliser une étude scientifique, aboutissant sur un modèle fonctionnel.
 Puis on cherchera a comparer ses performances avec l'état de l'art, en émettant des critiques et en proposant des pistes.
 <br>
-## Contexte
 J'ai réalisé ce projet sur mon temps libre, pendant le premier semestre de mon Mastère Spécialisé en Intelligence Artificelle a Télécom Paris.
 C'est un sujet qui a beaucoup d'interêts a mes yeux. Laissez moi vous expliquer pourquoi. 
-<br> <br>
-Il y a plus de deux millénaires, Sun Tzu a énoncé le principe suivant : "l'opportunité de vaincre l'ennemi est fourni par l'ennemi lui-même".
+<br>
+## Contexte
+Il y a plus de deux millénaires, Sun Tzu énonce le principe suivant : "l'opportunité de vaincre l'ennemi est fourni par l'ennemi lui-même".
 Cela illustre bien la nécessitée d'observer le dispositif adverse afin de détecter une faille.
 Dans les temps anciens, cette mission était remplie par une force de cavalerie légère appelée les Scouts.
 Ils étaient les yeux et les oreilles de l'armée, informant le commandement des moindres faits et gestes de l'ennemi. <br>
