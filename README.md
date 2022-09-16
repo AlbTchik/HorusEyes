@@ -2,12 +2,12 @@
 
 **Date de réalisation :** Septembre-Decembre 2022, projet personnel
 <br> <br>
-**Cadre du projet :** Ce projet m'as permis d'appliquer la reconnaissance d'objets sur des images satellites aux réseaux de neurones.
+**Cadre du projet :** Reconnaissance d'objets sur des images satellites en utilisant les réseaux de neurones.
 <br> <br>
 **Mots-clés :** Neural Networks, Computer Vision, Satellite Imagery, Civilan & Military Aircrafts
 <br>
 ## Présentation du projet
-Vous trouverez ici un détecteur automatique d'avions à partir d'images satellites.
+Ce projet présente le dévloppement d'un détecteur automatique d'avions à partir d'images satellites en utilisant un modèle de Deep Learning.
 Le but étant de réaliser une étude scientifique aboutissant sur un modèle fonctionnel.
 Dans celle-ci, on cherchera a mettre en place un modèle puis on comparera les performances obtenus avec celles de l'état de l'art, en émettant des critiques et en proposant des pistes d'interprétation.
 <br><br>
