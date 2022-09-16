@@ -7,12 +7,13 @@
 **Mots-clés :** Neural Networks, Computer Vision, Satellite Imagery, Civilan & Military Aircrafts
 <br>
 ## Présentation du projet
+J'ai réalisé ce projet sur mon temps libre, pendant le premier semestre de mon Mastère Spécialisé en Intelligence Artificelle à Télécom Paris.
+<br><br>
 Vous trouverez ici un détecteur automatique d'avions à partir d'images satellites.
 Le but étant de réaliser une étude scientifique aboutissant sur un modèle fonctionnel.
-Puis on cherchera a comparer ses performances avec l'état de l'art, en émettant des critiques et en proposant des pistes d'interprétation.
+Dans celle-ci, on cherchera a mettre en place un modèle puis on comparera les performances obtenus avec celles de l'état de l'art, en émettant des critiques et en proposant des pistes d'interprétation.
 <br><br>
-J'ai réalisé ce projet sur mon temps libre, pendant le premier semestre de mon Mastère Spécialisé en Intelligence Artificelle a Télécom Paris.
-C'est un sujet qui a beaucoup d'interêts a mes yeux. Laissez moi vous expliquer pourquoi. 
+C'est un sujet qui présente beaucoup d'intérêts a mes yeux. Laissez moi vous expliquer pourquoi. 
 <br>
 ## Contexte
 Il y a plus de deux millénaires, Sun Tzu énonce le principe suivant : "l'opportunité de vaincre l'ennemi est fourni par l'ennemi lui-même".
