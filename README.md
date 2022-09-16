@@ -18,7 +18,7 @@ C'est un sujet qui présente beaucoup d'intérêt a mes yeux. Laissez moi vous e
 Il y a plus de deux millénaires, Sun Tzu énonce le principe suivant : "l'opportunité de vaincre l'ennemi est fourni par l'ennemi lui-même".
 Cela illustre bien la nécessitée d'observer le dispositif adverse, afin d'y détecter une faille.
 Dans les temps anciens, cette mission était remplie par une force de cavalerie légère, appelée les Scouts.
-Ils étaient les yeux et les oreilles de l'armée, informant le commandement des moindres mouvements de l'ennemi. Et, au travers de l'histoire, on peut observer de nombreuses batailles perdue par la faute d'une reconnaissance insuffisante. <br>
+Ils étaient les yeux et les oreilles de l'armée, informant le commandement des moindres mouvements de l'ennemi. Et, au travers de l'histoire, on peut observer de nombreux exemples de batailles perdues par la faute d'une reconnaissance insuffisante. <br>
 <br>
 De nos jours cette tâche s'est adaptée à la guerre moderne et est en partie réalisée au travers des satellites et des drones.
 Ceux-ci génèrent de nombreuses images montrant l'état des zones observés. Des analystes bien entrainés peuvent ensuite les étudier, pour en extraire les informations d'intelligence stratégique. Et celles-ci vont permettre au commandement de prendre les décisions adaptés.
