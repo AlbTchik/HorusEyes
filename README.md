@@ -24,11 +24,11 @@ De nos jours cette tâche s'est adaptée à la guerre moderne et est principalem
 Ceux-ci génèrent de nombreuses images montrant l'état des zones observées. Des analystes bien entrainés peuvent ensuite les étudier, pour en extraire les informations d'intelligence stratégique, qui vont permettre au commandement de prendre les décisions adaptés, en appliquant la fameuse phrase de Sun Tzu.
 <br>
 ## Problématique
-Le problème se situe dans la quantité très importante de données a analyser. Car il faut environ une demi-journée à un analyste pour évaluer l'état d'un petit aéroport et les données sont renouvelés très rapidement, souvent une fois par jours, parfois plus.
+Le problème se situe dans la quantité très importante de données a analyser. Car il faut environ une demi-journée à un analyste pour évaluer l'état d'un petit aéroport. De plus ces données sont renouvelées très rapidement, souvent une fois par jours, parfois plus.
 Afin d'aider l'opérateur a prendre une décision rapide, on veut lui proposer une évaluation automatique des sites d'interêts.
-Cela pose la question suivante : 
+Ce qui pose la question suivante : 
 <br> <br>
-**Comment modéliser et évaluer un algorithme de reconnaisance d'aeronefs avec les contraintes de l'imagerie satellite, telles que la dimesnison réelle de chaques pixels ou l'orientation de la photo ?**
+**Comment modéliser et évaluer les performances d'un algorithme de reconnaissance d'aéronefs appliqué a l'imagerie satellite et ses contraintes, telles que la dimension réelle de chaque pixel ou l'orientation de la photo ?**
 <br>
 ## Stratégie et hypothèses de l'étude
 <br>
