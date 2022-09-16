@@ -9,7 +9,7 @@
 ## Présentation du projet
 Vous trouverez ici un détecteur automatique d'avions à partir d'images satellites.
 Le but étant de réaliser une étude scientifique aboutissant sur un modèle fonctionnel.
-Puis on cherchera a comparer ses performances avec l'état de l'art, en émettant des critiques et en proposant des pistes.
+Puis on cherchera a comparer ses performances avec l'état de l'art, en émettant des critiques et en proposant des pistes d'interprétation.
 <br><br>
 J'ai réalisé ce projet sur mon temps libre, pendant le premier semestre de mon Mastère Spécialisé en Intelligence Artificelle a Télécom Paris.
 C'est un sujet qui a beaucoup d'interêts a mes yeux. Laissez moi vous expliquer pourquoi. 
