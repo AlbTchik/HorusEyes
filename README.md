@@ -16,12 +16,12 @@ C'est un sujet qui présente beaucoup d'intérêt a mes yeux. Laissez moi vous e
 <br>
 ## Contexte
 Il y a plus de deux millénaires, Sun Tzu énonce le principe suivant : "l'opportunité de vaincre l'ennemi est fourni par l'ennemi lui-même".
-Cela illustre bien la nécessitée d'observer le dispositif adverse afin d'y détecter une faille.
-Dans les temps anciens, cette mission était remplie par une force de cavalerie légère appelée les Scouts.
+Cela illustre bien la nécessitée d'observer le dispositif adverse, afin d'y détecter une faille.
+Dans les temps anciens, cette mission était remplie par une force de cavalerie légère, appelée les Scouts.
 Ils étaient les yeux et les oreilles de l'armée, informant le commandement des moindres mouvements de l'ennemi. <br>
 <br>
-De nos jours cette tâche s'est adapté a la guerre moderne et est principalement réalisée au travers des satellites.
-Ceux-ci génèrent de nombreuses images sur l'état des zones observés. Que des analystes bien entrainés peuvent étudier pour en extraire l'intelligence, permettant au commandement de prendre les décisions adaptés.
+De nos jours cette tâche s'est adaptée à la guerre moderne et est en partie réalisée au travers des satellites et des drones.
+Ceux-ci génèrent de nombreuses images montrant l'état des zones observés. Des analystes bien entrainés peuvent ensuite les étudier, pour en extraire les informations d'intelligence de terrain. Et celles-ci vont permettre au commandement de prendre les décisions adaptés.
 <br>
 ## Problématique
 Le problème se situe dans la quantité très importante de données a analyser. Car il faut environ une demi-journée à un analyste pour évaluer l'état d'un petit aéroport et les données sont renouvelés très rapidement, souvent une fois par jours, parfois plus.
