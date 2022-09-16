@@ -16,7 +16,7 @@ C'est un sujet qui présente beaucoup d'intérêt a mes yeux. Laissez moi vous e
 <br>
 ## Contexte
 Il y a plus de deux millénaires, Sun Tzu énonce le principe suivant : "l'opportunité de vaincre l'ennemi est fourni par l'ennemi lui-même".
-Cela illustre bien la nécessitée d'observer le dispositif adverse afin de détecter une faille.
+Cela illustre bien la nécessitée d'observer le dispositif adverse afin d'y détecter une faille.
 Dans les temps anciens, cette mission était remplie par une force de cavalerie légère appelée les Scouts.
 Ils étaient les yeux et les oreilles de l'armée, informant le commandement des moindres mouvements de l'ennemi. <br>
 <br>
