@@ -20,7 +20,7 @@ Cela illustre bien la nécessitée d'observer le dispositif adverse, afin d'y d�
 Historiquement, cette mission était remplie par des régiments de cavalerie légère, appelée les Eclaireurs.
 Ils étaient les yeux et les oreilles de l'armée, informant le commandement des moindres mouvements de l'ennemi. Et, au travers de l'histoire, on peut observer de nombreux exemples de batailles perdues par la faute d'une reconnaissance insuffisante. <br>
 <br>
-De nos jours, cette tâche s'est adaptée à la guerre moderne et est principalement réalisée au travers de drones et de satellites.
+De nos jours, cette tâche s'est adaptée à la guerre moderne et est réalisée en utilisant des drones et des satellites.
 Ceux-ci génèrent de nombreuses images montrant l'état des zones observées. Des analystes bien entrainés peuvent ensuite les étudier, pour en extraire les informations d'intelligence stratégique, qui vont permettre au commandement de prendre les décisions adaptés.
 <br>
 ## Problématique
