@@ -28,7 +28,7 @@ Le problème se situe dans la quantité très importante de données a analyser.
 Afin d'aider l'opérateur a prendre une décision rapide, on veut lui proposer une évaluation automatique des sites d'interêts.
 Ce qui pose la question suivante : 
 <br> <br>
-**Comment modéliser et évaluer les performances d'un algorithme de reconnaissance d'aéronefs appliqué a l'imagerie satellite et ses contraintes, telles que la dimension réelle de chaque pixel ou l'orientation de la photo ?**
+**Comment modéliser et évaluer les performances d'un algorithme de reconnaissance d'objets appliqué a l'imagerie satellite et ses contraintes ?**
 <br>
 ## Stratégie et hypothèses de l'étude
 <br>
