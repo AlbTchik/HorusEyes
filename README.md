@@ -2,7 +2,7 @@
 
 **Date de réalisation :** Septembre-Decembre 2022, projet personnel
 <br> <br>
-**Cadre du projet :** Reconnaissance d'objets sur des images satellites en utilisant les réseaux de neurones.
+**Cadre du projet :** Reconnaissance automatique d'objets sur des images satellites.
 <br> <br>
 **Mots-clés :** Neural Networks, Computer Vision, Satellite Imagery, Civilian & Military Targets
 <br>
