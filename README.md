@@ -43,7 +43,7 @@ Ce qui pose la question suivante :
 ## Bibliographie 
 
 <a name="ref1">[1]</a> : [Contenu de la formation MS IA à Télécom](https://www.telecom-paris.fr/fr/masteres-specialises/formation-intelligence-artificielle)  
-<a name="ref2">[2]</a> : [L'Art de la Guerre](https://www.getstoryshots.com/fr/books/the-art-of-war-summary/)  
+<a name="ref2">[2]</a> : [Résumé et critique de "L'Art de la Guerre"](https://www.getstoryshots.com/fr/books/the-art-of-war-summary/)  
 <a name="ref3">[3]</a> : [Guerre Romano-Sassanide, Bataille de Satala, 298 après J.-C.](https://www.youtube.com/watch?v=T2571JUYAlI)  
 <a name="ref4">[4]</a> : [Guerre Hongroise-Germanique, Bataille de Pressburg, 907 après J.-C.](https://www.youtube.com/watch?v=VHUSCs4Nacg)  
 <a name="ref5">[5]</a> : [Standard OTAN, STANAG 3596 (2003)](https://infostore.saiglobal.com/en-us/standards/stanag-3596-2003-735625_saig_nato_nato_1786746/)
