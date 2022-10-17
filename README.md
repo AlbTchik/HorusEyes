@@ -15,19 +15,19 @@ J'ai réalisé ce projet sur mon temps libre, pendant le premier trimestre de mo
 C'est un sujet qui présente beaucoup d'intérêt a mes yeux. Laissez moi vous expliquer pourquoi. 
 <br>
 ## Contexte
-Il y a plus de deux millénaires, Sun Tzu énonce le principe suivant : "l'opportunité de vaincre l'ennemi est fourni par l'ennemi lui-même".
+Il y a plus de deux millénaires, Sun Tzu énonce le principe suivant : "l'opportunité de vaincre l'ennemi est fourni par l'ennemi lui-même" [[2]](#ref2).
 Cela illustre bien la nécessitée d'observer le dispositif adverse, afin d'y détecter une faille.
 Historiquement, cette mission était remplie par des régiments de cavalerie légère, appelée les Eclaireurs.
 Ils étaient les yeux et les oreilles de l'armée, informant le commandement des moindres mouvements de l'ennemi.  
 
-Au travers de l'histoire, on peut observer de nombreuses batailles perdues par la faute d'une reconnaissance insuffisante. Celle-ci ont souvent été gagnés, par l'autre camp, grace a un plan bien construit, basé sur une réelle faiblesse. On pourrai citer la bataille de Satala, en 298, où l'Empereur Romain lui-même s'est déguisé en commerçant pour observer le camp Sassanide [[2]](#ref2). Ou encore les nombreuses embuscades tendus par les nomades, comme celle de Pressburg, qui a vu les Hongrois triompher du Saint-Empire [[3]](#ref3).
+Au travers de l'histoire, on peut observer de nombreuses batailles perdues par la faute d'une reconnaissance insuffisante. Celle-ci ont souvent été gagnés, par l'autre camp, grace a un plan bien construit, basé sur une réelle faiblesse. On pourrai citer la bataille de Satala, en 298, où l'Empereur Romain lui-même s'est déguisé en commerçant pour observer le camp Sassanide [[3]](#ref3). Ou encore les nombreuses embuscades tendus par les nomades, comme celle de Pressburg, qui a vu les Hongrois triompher du Saint-Empire [[4]](#ref4).
 <br>
 <br>
 De nos jours, cette tâche s'est adaptée à la guerre moderne et est réalisée en utilisant des drones et des satellites.
-Ceux-ci génèrent de nombreuses images montrant l'état des zones observées. Des analystes bien entrainés peuvent ensuite les étudier, pour en extraire les informations d'intelligence stratégique, qui vont permettre au commandement de prendre les décisions adaptés.
+Ceux-ci génèrent de nombreuses images montrant l'état des zones observées. Des analystes bien entrainés peuvent ensuite les étudier, pour en extraire les informations d'intelligence stratégique, qui vont permettre au commandement de prendre les décisions adaptés. Les rapports de reconnaissance suivent les normes au Standard OTAN, définies dans la fiche STANAG 3596 établie en 2003 [[5]](#ref5).  
 <br>
 ## Problématique
-Le problème se situe dans la quantité très importante de données a analyser. Car il faut environ une demi-journée à un analyste pour évaluer l'état d'un petit aéroport. De plus ces données sont renouvelées très rapidement, souvent une fois par jours, parfois plus.
+Il y a cependant une quantité très importante de données a analyser. Il faut environ une demi-journée à un analyste pour évaluer l'état d'un petit aéroport. De plus ces données sont renouvelées très rapidement, souvent une fois par jours, parfois plus.
 Afin d'aider l'opérateur a prendre une décision rapide, on veut lui proposer une évaluation automatique des sites d'interêts.
 Ce qui pose la question suivante : 
 <br> <br>
@@ -43,6 +43,8 @@ Ce qui pose la question suivante :
 ## Bibliographie 
 
 <a name="ref1">[1]</a> : [Contenu de la formation MS IA à Télécom](https://www.telecom-paris.fr/fr/masteres-specialises/formation-intelligence-artificielle)  
-<a name="ref2">[2]</a> : [Guerre Romano-Sassanide, Bataille de Satala, 298 après J.-C.](https://www.youtube.com/watch?v=T2571JUYAlI)  
-<a name="ref3">[3]</a> : [Guerre Hongroise-Germanique, Bataille de Pressburg, 907 après J.-C.](https://www.youtube.com/watch?v=VHUSCs4Nacg)
+<a name="ref2">[2]</a> : [L'Art de la Guerre](https://www.getstoryshots.com/fr/books/the-art-of-war-summary/)  
+<a name="ref3">[3]</a> : [Guerre Romano-Sassanide, Bataille de Satala, 298 après J.-C.](https://www.youtube.com/watch?v=T2571JUYAlI)  
+<a name="ref4">[4]</a> : [Guerre Hongroise-Germanique, Bataille de Pressburg, 907 après J.-C.](https://www.youtube.com/watch?v=VHUSCs4Nacg)  
+<a name="ref5">[5]</a> : [Standard OTAN, STANAG 3596 (2003)](https://infostore.saiglobal.com/en-us/standards/stanag-3596-2003-735625_saig_nato_nato_1786746/)
 
