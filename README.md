@@ -41,5 +41,5 @@ Ce qui pose la question suivante :
 
 ## Bibliographie 
 
-[1](ref1) : [Guerre Romano-Sassanide, Bataille de Satala, 298 après J.-C.](https://www.youtube.com/watch?v=T2571JUYAlI)
+[[1]](#ref1) : [Guerre Romano-Sassanide, Bataille de Satala, 298 après J.-C.](https://www.youtube.com/watch?v=T2571JUYAlI)
 
