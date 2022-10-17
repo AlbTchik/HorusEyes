@@ -26,14 +26,15 @@ Au travers de l'histoire, on peut observer de nombreuses batailles perdues par l
 De nos jours, cette tâche s'est adaptée à la guerre moderne et est réalisée en utilisant des drones et des satellites.
 Ceux-ci génèrent de nombreuses images montrant l'état des zones observées. Des analystes bien entrainés peuvent ensuite les étudier, pour en extraire les informations d'intelligence stratégique, qui vont permettre au commandement de prendre les décisions adaptés. Les rapports de reconnaissance suivent les normes au Standard OTAN, définies dans la fiche STANAG 3596 établie en 2003 [[5]](#ref5).
 <br>
+## Stratégie et hypothèses de l'étude
+<br>
+
 ## Problématique
-Il y a cependant une quantité très importante de données a analyser. Il faut environ une demi-journée à un analyste pour évaluer l'état d'un petit aéroport. De plus ces données sont renouvelées très rapidement, souvent une fois par jours, parfois plus.
+Il y a une quantité très importante de données a analyser. Il faut environ une demi-journée à un analyste pour évaluer l'état d'un petit aéroport. De plus ces données sont renouvelées très rapidement, souvent une fois par jours, parfois plus.
 Afin d'aider l'opérateur a prendre une décision rapide, on veut lui proposer une évaluation automatique des sites d'interêts.
 Ce qui pose la question suivante : 
 <br> <br>
 **Comment modéliser et évaluer les performances d'un algorithme de reconnaissance d'objets appliqué a l'imagerie satellite et ses contraintes ?**
-<br>
-## Stratégie et hypothèses de l'étude
 <br>
 
 ## Etat de l'art 
