@@ -11,7 +11,7 @@ Ce projet présente le développement d'un détecteur automatique d'avions, à p
 Le but est de réaliser une étude scientifique aboutissant sur un modèle fonctionnel.
 Dans celle-ci, on cherchera a mettre en place un modèle puis on comparera les performances obtenus avec celles de l'état de l'art, en émettant des critiques et en proposant des pistes d'interprétation.
 <br><br>
-J'ai réalisé ce projet sur mon temps libre, pendant le premier trimestre de mon Mastère Spécialisé en Intelligence Artificelle à Télécom Paris[[1]](#ref1).
+J'ai réalisé ce projet sur mon temps libre, pendant le premier trimestre de mon Mastère Spécialisé en Intelligence Artificelle à Télécom Paris [[1]](#ref1).
 C'est un sujet qui présente beaucoup d'intérêt a mes yeux. Laissez moi vous expliquer pourquoi. 
 <br>
 ## Contexte
@@ -41,6 +41,6 @@ Ce qui pose la question suivante :
 
 ## Bibliographie 
 
-<a name="ref1">[1]</a> : [Contenu de la formation MS IA à Télécom]([https://www.youtube.com/watch?v=T2571JUYAlI](https://www.telecom-paris.fr/fr/masteres-specialises/formation-intelligence-artificielle))  
+<a name="ref1">[1]</a> : [Contenu de la formation MS IA à Télécom](https://www.telecom-paris.fr/fr/masteres-specialises/formation-intelligence-artificielle)  
 <a name="ref1">[2]</a> : [Guerre Romano-Sassanide, Bataille de Satala, 298 après J.-C.](https://www.youtube.com/watch?v=T2571JUYAlI)
 
