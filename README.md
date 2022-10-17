@@ -19,9 +19,8 @@ Il y a plus de deux millénaires, Sun Tzu énonce le principe suivant : "l'oppor
 Cela illustre bien la nécessitée d'observer le dispositif adverse, afin d'y détecter une faille.
 Historiquement, cette mission était remplie par des régiments de cavalerie légère, appelée les Eclaireurs.
 Ils étaient les yeux et les oreilles de l'armée, informant le commandement des moindres mouvements de l'ennemi. Et, au travers de l'histoire, on peut observer de nombreuses batailles perdues par la faute d'une reconnaissance insuffisante.  
-Alors, qu'au contraire, des affrontements qui était perdus d'avances ont été gagnés grace a un plan bien construit basé sur une réelle faiblesse. Parmis les exemples qui me sont les plus cher, on pourrai citer la bataille de Satala, en 298, où l'Empereur Romain lui-même s'est déguisé en commerçant pour observer le camp Sassanide<a name="ref1">[1]</a>
-
-Source: https://prograide.com/pregunta/5868/comment-creer-un-lien-vers-une-ancre-nommee-dans-multimarkdown[1] <br>
+Alors, qu'au contraire, des affrontements qui était perdus d'avances ont été gagnés grace a un plan bien construit basé sur une réelle faiblesse. Parmis les exemples qui me sont les plus cher, on pourrai citer la bataille de Satala, en 298, où l'Empereur Romain lui-même s'est déguisé en commerçant pour observer le camp Sassanide <a name="ref1">[1]</a>  
+<br>
 <br>
 De nos jours, cette tâche s'est adaptée à la guerre moderne et est réalisée en utilisant des drones et des satellites.
 Ceux-ci génèrent de nombreuses images montrant l'état des zones observées. Des analystes bien entrainés peuvent ensuite les étudier, pour en extraire les informations d'intelligence stratégique, qui vont permettre au commandement de prendre les décisions adaptés.
