@@ -20,7 +20,7 @@ Cela illustre bien la nécessitée d'observer le dispositif adverse, afin d'y d�
 Historiquement, cette mission était remplie par des régiments de cavalerie légère, appelée les Eclaireurs.
 Ils étaient les yeux et les oreilles de l'armée, informant le commandement des moindres mouvements de l'ennemi.  
 
-Au travers de l'histoire, on peut observer de nombreuses batailles perdues par la faute d'une reconnaissance insuffisante. Celle-ci ont souvent été gagnés, par l'autre camp, grace a un plan bien construit, basé sur une réelle faiblesse. On pourrai citer la bataille de Satala, en 298, où l'Empereur Romain lui-même s'est déguisé en commerçant pour observer le camp Sassanide [[3]](#ref3). Ou encore les nombreuses embuscades tendus par les nomades, comme celle de Pressburg, qui a vu les Hongrois triompher du Saint-Empire [[4]](#ref4).
+Au travers de l'histoire, on peut observer de nombreuses batailles perdues par la faute d'une reconnaissance insuffisante. Celle-ci ont souvent été gagnés, par l'autre camp, grace a un plan bien construit, basé sur une réelle faiblesse. On pourrai citer la bataille de Satala, en 298, où l'Empereur Romain lui-même s'est déguisé en commerçant pour observer le camp Sassanide [[3]](#ref3). Ou encore les nombreuses embuscades tendus par les nomades, comme celle de Pressburg, qui a vu les Hongrois triompher du Saint-Empire Germanique [[4]](#ref4).
 <br>
 <br>
 De nos jours, cette tâche s'est adaptée à la guerre moderne et est réalisée en utilisant des drones et des satellites.
