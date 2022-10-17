@@ -16,7 +16,7 @@ C'est un sujet qui présente beaucoup d'intérêt a mes yeux. Laissez moi vous e
 <br>
 ## Contexte
 Il y a plus de deux millénaires, Sun Tzu énonce le principe suivant : "l'opportunité de vaincre l'ennemi est fourni par l'ennemi lui-même" [[2]](#ref2).
-Cela illustre bien la nécessitée d'observer le dispositif adverse, afin d'y détecter une faille.
+Cela illustre bien la nécessitée d'observer le dispositif adverse, afin d'y détecter une faille, et met en valeur l'importance de la reconnaissance dans la victoire.
 Historiquement, cette mission était remplie par des régiments de cavalerie légère, appelée les Eclaireurs.
 Ils étaient les yeux et les oreilles de l'armée, informant le commandement des moindres mouvements de l'ennemi.  
 
