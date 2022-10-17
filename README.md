@@ -27,7 +27,7 @@ De nos jours, cette tâche s'est adaptée à la guerre moderne et est réalisée
 Ceux-ci génèrent de nombreuses images montrant l'état des zones observées. Des analystes bien entrainés peuvent ensuite les étudier, pour en extraire les informations d'intelligence stratégique, qui vont permettre au commandement de prendre les décisions adaptés. Pour l'Armée Française, les rapports de reconnaissance suivent les normes au Standard OTAN, définies dans le document STANAG 3596, établi en 2003 [[5]](#ref5).
 <br>
 ## Stratégie et hypothèses de l'étude
-Le STANAG définie une importante quantité de cibles ainsi que plusieurs niveaux permettant de fournir une évaluation exploitable de leur état. 
+Le STANAG 3596 définie une importante quantité de cibles ainsi que plusieurs niveaux permettant de fournir une évaluation exploitable de leur état. 
 <br>
 ## Problématique
 Il y a une quantité très importante de données a analyser. Il faut environ une demi-journée à un analyste pour évaluer l'état d'un petit aéroport. De plus ces données sont renouvelées très rapidement, souvent une fois par jours, parfois plus.
