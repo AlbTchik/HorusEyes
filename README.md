@@ -18,8 +18,10 @@ C'est un sujet qui présente beaucoup d'intérêt a mes yeux. Laissez moi vous e
 Il y a plus de deux millénaires, Sun Tzu énonce le principe suivant : "l'opportunité de vaincre l'ennemi est fourni par l'ennemi lui-même".
 Cela illustre bien la nécessitée d'observer le dispositif adverse, afin d'y détecter une faille.
 Historiquement, cette mission était remplie par des régiments de cavalerie légère, appelée les Eclaireurs.
-Ils étaient les yeux et les oreilles de l'armée, informant le commandement des moindres mouvements de l'ennemi. Et, au travers de l'histoire, on peut observer de nombreuses batailles perdues par la faute d'une reconnaissance insuffisante.  
-Alors, qu'au contraire, des affrontements qui était perdus d'avances ont été gagnés grace a un plan bien construit basé sur une réelle faiblesse. Parmis les exemples qui me sont les plus cher, on pourrai citer la bataille de Satala, en 298, où l'Empereur Romain lui-même s'est déguisé en commerçant pour observer le camp Sassanide [[2]](#ref2) <br>
+Ils étaient les yeux et les oreilles de l'armée, informant le commandement des moindres mouvements de l'ennemi.  
+
+Au travers de l'histoire, on peut observer de nombreuses batailles perdues par la faute d'une reconnaissance insuffisante. Celle-ci ont souvent été gagnés, par l'autre camp, grace a un plan bien construit, basé sur une réelle faiblesse. Parmis les exemples qui me sont les plus cher, on pourrai citer la bataille de Satala, en 298, où l'Empereur Romain lui-même s'est déguisé en commerçant pour observer le camp Sassanide [[2]](#ref2). Ou encore les nombreuses embuscades tendus par les nomades, comme celle de Pressburg, qui a vu les Hongrois triompher du Saint-Empire [[3]](#ref3).
+<br>
 <br>
 De nos jours, cette tâche s'est adaptée à la guerre moderne et est réalisée en utilisant des drones et des satellites.
 Ceux-ci génèrent de nombreuses images montrant l'état des zones observées. Des analystes bien entrainés peuvent ensuite les étudier, pour en extraire les informations d'intelligence stratégique, qui vont permettre au commandement de prendre les décisions adaptés.
@@ -41,5 +43,6 @@ Ce qui pose la question suivante :
 ## Bibliographie 
 
 <a name="ref1">[1]</a> : [Contenu de la formation MS IA à Télécom](https://www.telecom-paris.fr/fr/masteres-specialises/formation-intelligence-artificielle)  
-<a name="ref1">[2]</a> : [Guerre Romano-Sassanide, Bataille de Satala, 298 après J.-C.](https://www.youtube.com/watch?v=T2571JUYAlI)
+<a name="ref2">[2]</a> : [Guerre Romano-Sassanide, Bataille de Satala, 298 après J.-C.](https://www.youtube.com/watch?v=T2571JUYAlI)  
+<a name="ref3">[3]</a> : [Guerre Hongroise-Germanique, Bataille de Pressburg, 907 après J.-C.](https://www.youtube.com/watch?v=VHUSCs4Nacg)
 
