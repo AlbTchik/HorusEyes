@@ -24,7 +24,7 @@ Au travers de l'histoire, on peut observer de nombreuses batailles perdues par l
 <br>
 <br>
 De nos jours, cette tâche s'est adaptée à la guerre moderne et est réalisée en utilisant des drones et des satellites.
-Ceux-ci génèrent de nombreuses images montrant l'état des zones observées. Des analystes bien entrainés peuvent ensuite les étudier, pour en extraire les informations d'intelligence stratégique, qui vont permettre au commandement de prendre les décisions adaptés. Les rapports de reconnaissance suivent les normes au Standard OTAN, définies dans la fiche STANAG 3596 établie en 2003 [[5]](#ref5).
+Ceux-ci génèrent de nombreuses images montrant l'état des zones observées. Des analystes bien entrainés peuvent ensuite les étudier, pour en extraire les informations d'intelligence stratégique, qui vont permettre au commandement de prendre les décisions adaptés. Pour l'Armée Française, les rapports de reconnaissance suivent les normes au Standard OTAN, définies dans le document STANAG 3596, établi en 2003 [[5]](#ref5).
 <br>
 ## Stratégie et hypothèses de l'étude
 <br>
