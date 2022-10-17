@@ -19,7 +19,7 @@ Il y a plus de deux millénaires, Sun Tzu énonce le principe suivant : "l'oppor
 Cela illustre bien la nécessitée d'observer le dispositif adverse, afin d'y détecter une faille.
 Historiquement, cette mission était remplie par des régiments de cavalerie légère, appelée les Eclaireurs.
 Ils étaient les yeux et les oreilles de l'armée, informant le commandement des moindres mouvements de l'ennemi. Et, au travers de l'histoire, on peut observer de nombreuses batailles perdues par la faute d'une reconnaissance insuffisante.  
-Alors, qu'au contraire, des affrontements qui était perdus d'avances ont été gagnés grace a un plan bien construit basé sur une réelle faiblesse. Parmis les exemples qui me sont les plus cher, on pourrai citer la bataille de Satala, en 298, où l'Empereur Romain lui-même s'est déguisé en commerçant pour observer le camp Sassanide <a name="ref1">[1]</a>  
+Alors, qu'au contraire, des affrontements qui était perdus d'avances ont été gagnés grace a un plan bien construit basé sur une réelle faiblesse. Parmis les exemples qui me sont les plus cher, on pourrai citer la bataille de Satala, en 298, où l'Empereur Romain lui-même s'est déguisé en commerçant pour observer le camp Sassanide [[1]](#ref1)  
 <br>
 <br>
 De nos jours, cette tâche s'est adaptée à la guerre moderne et est réalisée en utilisant des drones et des satellites.
@@ -41,5 +41,5 @@ Ce qui pose la question suivante :
 
 ## Bibliographie 
 
-[[1]](#ref1) : [Guerre Romano-Sassanide, Bataille de Satala, 298 après J.-C.](https://www.youtube.com/watch?v=T2571JUYAlI)
+<a name="ref1">[1]</a> : [Guerre Romano-Sassanide, Bataille de Satala, 298 après J.-C.](https://www.youtube.com/watch?v=T2571JUYAlI)
 
