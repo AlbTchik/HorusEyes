@@ -43,7 +43,7 @@ Ce qui pose la question suivante :
 <br>
 
 
-## Bibliographie 
+## Bibliographie de l'introduction
 
 <a name="ref1">[1]</a> : [Contenu de la formation MS IA à Télécom](https://www.telecom-paris.fr/fr/masteres-specialises/formation-intelligence-artificielle)  
 <a name="ref2">[2]</a> : [Résumé et critique de "L'Art de la Guerre"](https://www.getstoryshots.com/fr/books/the-art-of-war-summary/)  
@@ -51,6 +51,6 @@ Ce qui pose la question suivante :
 <a name="ref4">[4]</a> : [Guerre Romano-Sassanide, Bataille de Satala, 298 après J.-C.](https://www.youtube.com/watch?v=T2571JUYAlI)  
 <a name="ref5">[5]</a> : [Guerre Hongroise-Germanique, Bataille de Pressburg, 907 après J.-C.](https://www.youtube.com/watch?v=VHUSCs4Nacg)  
 <a name="ref6">[6]</a> : [Drone HALE (Haute Altitude, Longue Endurance) RQ-4 Global Hawk](https://www.avionslegendaires.net/2022/10/actu/loeil-volant-des-allies/?fbclid=IwAR3BfqGRQXVCfEkrNRzq246XAnPmke6V6o_yU0kvRv0cZ_pFD8Ucmfd5fHQ)  
-<a name="ref7">[7]</a> : [Constellation Airbus de satellites Pléiades](https://www.intelligence-airbusds.com/imagery/constellation/pleiades/)  
+<a name="ref7">[7]</a> : [Constellation Pléiades d'Airbus ](https://www.intelligence-airbusds.com/imagery/constellation/pleiades/)  
 <a name="ref8">[8]</a> : [STANAG 3596, Standard OTAN (2003)](https://infostore.saiglobal.com/en-us/standards/stanag-3596-2003-735625_saig_nato_nato_1786746/)  
 
