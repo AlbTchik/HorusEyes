@@ -18,10 +18,9 @@ C'est un sujet qui présente beaucoup d'intérêt a mes yeux. Laissez moi vous e
 Il y a plus de deux millénaires, Sun Tzu énonce le principe suivant : "l'opportunité de vaincre l'ennemi est fourni par l'ennemi lui-même" [[2]](#ref2).
 Cela illustre bien la nécessitée d'observer le dispositif adverse afin d'y détecter une faille, et met en valeur l'importance de la reconnaissance dans la victoire.
 
-L'histoire nous propose en effet une multitude de batailles perdues à cause d'une reconnaissance insuffisante. Une erreur stratégique est vite arrivée lorsque des décisions sont prises sur la base d'informations incorrectes. Cela a failli être le cas lors des batailles de Iéna-Auerstaedt[[3]](#ref3), en 1806, quand Napoléon ordonne la concentration des corps d'armée au mauvais endroit, le désatre étant évité de justesse grâce à la bravoure du 3ème corps et du Maréchal Davoult.  
+Ainsi, les plans les plus efficaces sont ancrés sur une reconnaissance minutieuse du déploiement adverse. Pour illustrer cela, on peut citer la bataille de Satala[[3]](#ref3), en 298, où l'Empereur Romain s'est déguisé pour observer le camp Sassanide de l'intérieur. Ou l'embuscade de Pressburg[[4]](#ref4), en 907, qui a vu les Hongrois anéantir une armée du Saint-Empire Germanique par une retraite feinte.  
 
-A l'opposé, les plans les plus efficaces sont ancrés sur une reconnaissance minutieuse du déploiement adverse. Pour illustrer cela, on peut citer la bataille de Satala[[4]](#ref4), en 298, où l'Empereur Romain s'est déguisé pour observer le camp Sassanide de l'intérieur. Ou l'embuscade de Pressburg[[5]](#ref5), en 907, qui a vu les Hongrois anéantir une armée du Saint-Empire Germanique par une retraite feinte.
-<br>
+A l'opposée, l'histoire nous propose une multitude de batailles perdues à cause d'une reconnaissance insuffisante. Une erreur stratégique est vite arrivée lorsque des décisions sont prises sur la base d'informations incorrectes. Cela a failli être le cas lors des batailles de Iéna-Auerstaedt[[5]](#ref5), en 1806, quand Napoléon ordonne la concentration des corps d'armée au mauvais endroit, le désatre étant évité de justesse grâce à la bravoure du 3ème corps et du Maréchal Davoult.  
 <br>
 Historiquement, la reconnaissance était réalisée par des régiments de cavalerie légère, appelée les Eclaireurs. De nos jours, cette tâche s'est adaptée à la guerre moderne et est réalisée par des drones et des satellites. Par exemple, l'OTAN déploie actuellement 5 RQ-4 Global Hawk qui surveillent le déroulement des opérations en Ukraine depuis la Roumanie et la Mer Noire[[6]](#ref6). La France dispose également, grâce a Airbus, de la constellation des 2 satellites Pléiades[[7]](#ref7), capable de photographier jusqu'a 20km de terrain avec une précision de 50cm.  
 
@@ -47,9 +46,9 @@ Ce qui pose la question suivante :
 
 <a name="ref1">[1]</a> : [Contenu de la formation MS IA à Télécom](https://www.telecom-paris.fr/fr/masteres-specialises/formation-intelligence-artificielle)  
 <a name="ref2">[2]</a> : [Résumé et critique de "L'Art de la Guerre"](https://www.getstoryshots.com/fr/books/the-art-of-war-summary/)  
-<a name="ref3">[3]</a> : [Batailles de Iéna-Auerstaedt, 1806 après J.-C.](https://www.youtube.com/watch?v=odPUHTJO8to)  
-<a name="ref4">[4]</a> : [Guerre Romano-Sassanide, Bataille de Satala, 298 après J.-C.](https://www.youtube.com/watch?v=T2571JUYAlI)  
-<a name="ref5">[5]</a> : [Guerre Hongroise-Germanique, Bataille de Pressburg, 907 après J.-C.](https://www.youtube.com/watch?v=VHUSCs4Nacg)  
+<a name="ref3">[3]</a> : [Guerre Romano-Sassanide, Bataille de Satala, 298 après J.-C.](https://www.youtube.com/watch?v=T2571JUYAlI)  
+<a name="ref4">[4]</a> : [Guerre Hongroise-Germanique, Bataille de Pressburg, 907 après J.-C.](https://www.youtube.com/watch?v=VHUSCs4Nacg)  
+<a name="ref5">[5]</a> : [Batailles de Iéna-Auerstaedt, 1806 après J.-C.](https://www.youtube.com/watch?v=odPUHTJO8to)  
 <a name="ref6">[6]</a> : [Drone HALE (Haute Altitude, Longue Endurance) RQ-4 Global Hawk](https://www.avionslegendaires.net/2022/10/actu/loeil-volant-des-allies/?fbclid=IwAR3BfqGRQXVCfEkrNRzq246XAnPmke6V6o_yU0kvRv0cZ_pFD8Ucmfd5fHQ)  
 <a name="ref7">[7]</a> : [Constellation Pléiades d'Airbus ](https://www.intelligence-airbusds.com/imagery/constellation/pleiades/)  
 <a name="ref8">[8]</a> : [STANAG 3596, Standard OTAN (2003)](https://infostore.saiglobal.com/en-us/standards/stanag-3596-2003-735625_saig_nato_nato_1786746/)  
