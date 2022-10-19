@@ -22,7 +22,7 @@ L'histoire nous propose en effet une multitude de batailles perdues à cause d'u
 Cependant, les plans les plus efficaces sont toujours ancrés sur la reconnaissance minutieuse du dispositif adverse. Pour illustrer cela, on peut citer la bataille de Satala[[4]](#ref4), en 298, où l'Empereur Romain s'est déguisé pour observer le camp Sassanide de l'intérieur. Ou l'embuscade de Pressburg[[5]](#ref5), en 907, qui a vu les Hongrois anéantir une armée du Saint-Empire Germanique par une retraite feinte.
 <br>
 <br>
-Historiquement, cette mission était remplie par des régiments de cavalerie légère, appelée les Eclaireurs.
+Historiquement, la reconnaissance était réalisée par des régiments de cavalerie légère, appelée les Eclaireurs.
 Ils étaient les yeux et les oreilles de l'armée, informant le commandement des moindres mouvements de l'ennemi. De nos jours, cette tâche s'est adaptée à la guerre moderne et est réalisée en utilisant des drones et des satellites.  
 Ceux-ci génèrent de nombreuses images montrant l'état des zones observées. Des analystes bien entrainés peuvent ensuite les étudier, pour en extraire les informations d'intelligence stratégique, qui vont permettre au commandement de prendre les décisions adaptés. Pour l'Armée Française et ses alliés, les rapports de reconnaissance suivent les normes au Standard OTAN, définies dans le document STANAG 3596, établi en 2003 [[6]](#ref6).
 <br>
