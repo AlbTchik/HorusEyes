@@ -20,11 +20,11 @@ Cela illustre bien la nécessitée d'observer le dispositif adverse, afin d'y d�
 Historiquement, cette mission était remplie par des régiments de cavalerie légère, appelée les Eclaireurs.
 Ils étaient les yeux et les oreilles de l'armée, informant le commandement des moindres mouvements de l'ennemi.  
 
-Au travers de l'histoire, on peut observer de nombreuses batailles perdues par la faute d'une reconnaissance insuffisante. Celle-ci ont souvent été gagnés, par l'autre camp, grace a un plan bien construit, basé sur une réelle faiblesse. On pourrai citer la bataille de Satala, en 298, où l'Empereur Romain lui-même s'est déguisé en commerçant pour observer le camp Sassanide [[3]](#ref3). Ou encore les nombreuses embuscades tendus par les nomades, comme celle de Pressburg, qui a vu les Hongrois triompher du Saint-Empire Germanique [[4]](#ref4).
+Au travers de l'histoire, on peut observer de nombreuses batailles perdues par la faute d'une reconnaissance insuffisante. Et une erreur stratégique est vite arrivée si des décisions sont prises sur la base d'informations incorrectes. Cela a failli être le cas lors de les batailles jumelles de Iéna-Auerstaedt[[3]](#ref3) en 1806, quand Napoléon ordonne la concentration des corps d'armée au mauvais endroit, le désatre étant évité de justesse grâce à la bravoure du Maréchal Davoult et de son 3ème corps.     Cependant, les plans les plus efficaces sont toujours ancrés sur la reconnaissance minutieuse du dispositif adverse. Pour illustrer cela, on peut citer la bataille de Satala[[4]](#ref4), en 298, où l'Empereur Romain lui-même s'est déguisé pour observer le camp Sassanide. Ou encore l'embuscade de Pressburg[[5]](#ref5) en 907, qui a vu les Hongrois triompher du Saint-Empire Germanique dans une retraite feinte.
 <br>
 <br>
 De nos jours, cette tâche s'est adaptée à la guerre moderne et est réalisée en utilisant des drones et des satellites.
-Ceux-ci génèrent de nombreuses images montrant l'état des zones observées. Des analystes bien entrainés peuvent ensuite les étudier, pour en extraire les informations d'intelligence stratégique, qui vont permettre au commandement de prendre les décisions adaptés. Pour l'Armée Française, les rapports de reconnaissance suivent les normes au Standard OTAN, définies dans le document STANAG 3596, établi en 2003 [[5]](#ref5).
+Ceux-ci génèrent de nombreuses images montrant l'état des zones observées. Des analystes bien entrainés peuvent ensuite les étudier, pour en extraire les informations d'intelligence stratégique, qui vont permettre au commandement de prendre les décisions adaptés. Pour l'Armée Française, les rapports de reconnaissance suivent les normes au Standard OTAN, définies dans le document STANAG 3596, établi en 2003 [[6]](#ref6).
 <br>
 ## Stratégie et hypothèses de l'étude
 Le STANAG 3596 définie une importante quantité de cibles ainsi que plusieurs niveaux permettant de fournir une évaluation exploitable de leur état. 
@@ -45,7 +45,8 @@ Ce qui pose la question suivante :
 
 <a name="ref1">[1]</a> : [Contenu de la formation MS IA à Télécom](https://www.telecom-paris.fr/fr/masteres-specialises/formation-intelligence-artificielle)  
 <a name="ref2">[2]</a> : [Résumé et critique de "L'Art de la Guerre"](https://www.getstoryshots.com/fr/books/the-art-of-war-summary/)  
-<a name="ref3">[3]</a> : [Guerre Romano-Sassanide, Bataille de Satala, 298 après J.-C.](https://www.youtube.com/watch?v=T2571JUYAlI)  
-<a name="ref4">[4]</a> : [Guerre Hongroise-Germanique, Bataille de Pressburg, 907 après J.-C.](https://www.youtube.com/watch?v=VHUSCs4Nacg)  
-<a name="ref5">[5]</a> : [Standard OTAN, STANAG 3596 (2003)](https://infostore.saiglobal.com/en-us/standards/stanag-3596-2003-735625_saig_nato_nato_1786746/)
+<a name="ref4">[4]</a> : [Batailles de Iéna-Auerstaedt, 1806 après J.-C.](https://www.youtube.com/watch?v=odPUHTJO8to)  
+<a name="ref4">[4]</a> : [Guerre Romano-Sassanide, Bataille de Satala, 298 après J.-C.](https://www.youtube.com/watch?v=T2571JUYAlI)  
+<a name="ref5">[5]</a> : [Guerre Hongroise-Germanique, Bataille de Pressburg, 907 après J.-C.](https://www.youtube.com/watch?v=VHUSCs4Nacg)  
+<a name="ref6">[6]</a> : [Standard OTAN, STANAG 3596 (2003)](https://infostore.saiglobal.com/en-us/standards/stanag-3596-2003-735625_saig_nato_nato_1786746/)
 
