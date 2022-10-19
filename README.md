@@ -16,7 +16,7 @@ C'est un sujet qui présente beaucoup d'intérêt a mes yeux. Laissez moi vous e
 <br>
 ## Contexte
 Il y a plus de deux millénaires, Sun Tzu énonce le principe suivant : "l'opportunité de vaincre l'ennemi est fourni par l'ennemi lui-même" [[2]](#ref2).
-Cela illustre bien la nécessitée d'observer le dispositif adverse, afin d'y détecter une faille, et met en valeur l'importance de la reconnaissance dans la victoire.
+Cela illustre bien la nécessitée d'observer le dispositif adverse afin d'y détecter une faille, et met en valeur l'importance de la reconnaissance dans la victoire.
 
 Au travers de l'histoire, on peut observer de nombreuses batailles perdues par la faute d'une reconnaissance insuffisante. Une erreur stratégique est vite arrivée lorsque des décisions sont prises sur la base d'informations incorrectes. Cela a failli être le cas lors de les batailles jumelles de Iéna-Auerstaedt[[3]](#ref3), en 1806, quand Napoléon ordonne la concentration des corps d'armée au mauvais endroit, le désatre étant évité de justesse grâce à la bravoure du Maréchal Davoult et de son 3ème corps. Cependant, les plans les plus efficaces sont toujours ancrés sur la reconnaissance minutieuse du dispositif adverse. Pour illustrer cela, on peut citer la bataille de Satala[[4]](#ref4), en 298, où l'Empereur Romain lui-même s'est déguisé pour observer le camp Sassanide. Ou encore l'embuscade de Pressburg[[5]](#ref5), en 907, qui a vu les Hongrois triompher du Saint-Empire Germanique dans une retraite feinte.
 <br>
