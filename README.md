@@ -1,14 +1,14 @@
 # L'Oeil d'Horus
 
-**Date de réalisation :** Septembre-Decembre 2022, projet personnel
-<br> <br>
-**Cadre du projet :** Reconnaissance automatique d'objets sur des images satellites.
-<br> <br>
-**Mots-clés :** Neural Networks, Computer Vision, Satellite Imagery, Civilian & Military Targets
+**Date de réalisation :** Septembre-Decembre 2022, projet personnel  
 <br>
+**Cadre du projet :** Reconnaissance automatique du type d'aéronefs sur des images satellites.  
+<br>
+**Mots-clés :** Réseaux de Neurones, Vision par Ordinateur, Imagerie Satellite, Cibles civiles et militaires  
+
 ## Présentation du projet
 Ce projet a été réalisée sur mon temps libre, pendant mon Mastère Spécialisé en Intelligence Artificelle à Télécom Paris [[1]](#ref1).  
-Celui-ci présente le développement d'un détecteur automatique d'avions à partir d'images satellites en utilisant un modèle de Deep Learning.
+Celui-ci présente le développement d'un détecteur automatique d'avions à partir d'images satellites en utilisant un modèle d'apprentissage profond.
 Vous trouverez ici une étude scientifique aboutissant sur une comparaison de modèles fonctionnels.
 Dans celle-ci, on cherchera a mettre en place plusieurs modèles puis on comparera leurs performances avec celles de l'état de l'art, en émettant des critiques et en proposant des pistes d'interprétation. Commençons déja par une petite mise en contexte.  
 
@@ -23,13 +23,13 @@ On peut dès lors deviner que la capacité a dissimuler des informations est cru
 
 A l'opposée, l'histoire nous propose une multitude de batailles perdues a cause d'un mauvais usage des renseignements. Dans chacuns de ces cas, les informations possédés ne sont pas conforme à la réalité et il y a donc un problème de perception chez le perdant. Il arrive que nos secrets, que nous pensions a l'abri, soient finalement pleinement visibles, ou que nous négligions suffisement la reconnaissance pour que l'information cruciale nous échappe. Une situation de ce genre s'est présentée lors des batailles de Iéna-Auerstaedt[[5]](#ref5), en 1806, où Napoléon ordonne la concentration des corps d'armée au mauvais endroit, le désastre étant évité de justesse grâce à la bravoure du 3ème corps et du Maréchal Davoult. Pour obtenir d'autres exmples, il est aussi possible d'analyser les batailles présentées précédemment sous l'angle du perdant. On comprend, dès lors, qu'une erreur stratégique est inévitable lorsque des décisions sont prises sur la base d'informations incorrects.  
 
-On voit ainsi que la capacité a obtenir du renseignement fiable est déterminante dans l'établissement d'une supériorité sur le terrain. Et même si la gloire revient souvent a celui qui a implementé le plan, il ne faut pas oublier que des informations pertinentes sont toujours à la base des stratégies victorieuses.
+On voit ainsi que la capacité a obtenir du renseignement fiable est déterminante dans l'établissement d'une supériorité sur le terrain. Et même si la gloire revient souvent a celui qui a implementé le plan, il ne faut pas oublier que des informations pertinentes sont toujours à la base des stratégies victorieuses.  
 
 ### Le renseignement en pratique  
 Historiquement, la prise de renseignement était réalisée par les éclaireurs, des régiments de cavalerie légère. De nos jours, cette tâche s'est adaptée à la guerre moderne, et est décomposé en 4 niveaux : Humain, Electromagnétique, Image et Cyber. Pour ce projet, nous allons nous restreindre à la partie Imagerie. Celle-ci est principalement réalisée par des drones et des satellites. Par exemple, l'OTAN possède actuellement 5 RQ-4 Global Hawk[[6]](#ref6), dont les optiques sont capables de surveiller l'Ukraine depuis la Roumanie et la Mer Noire. La France dispose également, grâce a Airbus, de la constellation des 2 satellites Pléiades[[7]](#ref7), capable de photographier jusqu'a 20km de terrain avec une précision de 50cm. On peut aussi citer les 3 satellites CERES[[8]](#ref8), chargés de collecter du renseignement d'origine électromagnétique.
 
-Ces systèmes génèrent de nombreuses données, dont il faut extraire les informations d'intelligence stratégique, par des moyens humains ou algorithmiques. Une fois ces informations vérifiés, elles sont transmisent dans des rapports au commandement. Pour l'Armée Française et ses alliés, les rapports de reconnaissance suivent les normes au Standard OTAN, définies dans le document STANAG 3596[[9]](#ref9), établi en 2003.
-<br>
+Ces systèmes génèrent de nombreuses données, dont il faut extraire les informations d'intelligence stratégique, par des moyens humains ou algorithmiques. Une fois ces informations vérifiés, elles sont transmisent dans des rapports au commandement. Pour l'Armée Française et ses alliés, les rapports de reconnaissance suivent les normes au Standard OTAN, définies dans le document STANAG 3596[[9]](#ref9), établi en 2003.  
+
 ## Stratégie et hypothèses de l'étude
 Le STANAG 3596 définie une importante quantité de cibles ainsi que plusieurs niveaux permettant de fournir une évaluation exploitable de leur état. Pour ce projet, nous allons nous concentrer sur les objets de type "aéronefs".
 Les images utilisé seront prise selon un angle NADIR.
