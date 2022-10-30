@@ -7,7 +7,7 @@
 **Mots-clés :** Neural Networks, Computer Vision, Satellite Imagery, Civilian & Military Targets
 <br>
 ## Présentation du projet
-Ce projet a été réalisée sur mon temps libre, pendant le premier trimestre de mon Mastère Spécialisé en Intelligence Artificelle à Télécom Paris [[1]](#ref1).  
+Ce projet a été réalisée sur mon temps libre, pendant mon Mastère Spécialisé en Intelligence Artificelle à Télécom Paris [[1]](#ref1).  
 Celui-ci présente le développement d'un détecteur automatique d'avions à partir d'images satellites en utilisant un modèle de Deep Learning.
 Vous trouverez ici une étude scientifique aboutissant sur une comparaison de modèles fonctionnels.
 Dans celle-ci, on cherchera a mettre en place plusieurs modèles puis on comparera leurs performances avec celles de l'état de l'art, en émettant des critiques et en proposant des pistes d'interprétation. Commençons déja par une petite mise en contexte.  
