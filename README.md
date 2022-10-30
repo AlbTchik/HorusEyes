@@ -10,13 +10,12 @@
 J'ai réalisé ce projet sur mon temps libre, pendant le premier trimestre de mon Mastère Spécialisé en Intelligence Artificelle à Télécom Paris [[1]](#ref1).  
 Celui-ci présente le développement d'un détecteur automatique d'avions à partir d'images satellites en utilisant un modèle de Deep Learning.
 Vous trouverez ici une étude scientifique aboutissant sur une comparaison de modèles fonctionnels.
-Dans celle-ci, on cherchera a mettre en place plusieurs modèles puis on comparera leurs performances avec celles de l'état de l'art, en émettant des critiques et en proposant des pistes d'interprétation. Commençons déja par une petite mise en contexte. 
-<br>
-## Contexte  
-On cherche ici a démontrer l'importance du renseignement pour les armées, ainsi que son rôle dans la mise en place d'une stratégie pertiente.  
-### Le renseignement, un atout précieux  
-En guise d'introduction, on pourra réfléchir a la phrase suivante : "l'opportunité de vaincre l'ennemi est fourni par l'ennemi lui-même" énoncée dans l'Art de la Guerre[[2]](#ref2), de Sun Tzu. Celle-ci illustre la nécessitée d'observer le dispositif adverse afin d'y détecter une faille, et met en valeur l'importance de la prise d'information dans la victoire. 
+Dans celle-ci, on cherchera a mettre en place plusieurs modèles puis on comparera leurs performances avec celles de l'état de l'art, en émettant des critiques et en proposant des pistes d'interprétation. Commençons déja par une petite mise en contexte.  
 
+## Contexte  
+On cherche ici a démontrer l'importance du renseignement pour les armées, ainsi que son rôle dans la mise en place d'une stratégie pertiente. En guise d'introduction, on pourra réfléchir a la phrase suivante : "l'opportunité de vaincre l'ennemi est fourni par l'ennemi lui-même" énoncée dans l'Art de la Guerre[[2]](#ref2), de Sun Tzu. Celle-ci illustre la nécessitée d'observer le dispositif adverse afin d'y détecter une faille, et met en valeur l'importance de la prise d'information dans la victoire.  
+
+### Le renseignement, un atout précieux  
 On peut déja ségmenter le sujet en deux aspects, les renseignements nous possédons sur l'ennemi, et ceux que l'ennemi possède sur nous.  
 Pour avoir une vue complète de la situation, il est plus précis de subdiviser encore le problème, en définissant des sous catégories propres à chacun des référentiels. Ainsi, on défini les renseignements que nous possèdons sur l'ennemi et ceux qu'il pense que nous possédons sur lui, de même, on défini les renseignements que l'ennemi possède sur nous, et ceux que l'on pense qu'il possède sur nous. C'est de l'analyse de ces quatre quantités que découle la résolution d'un affrontement, qui devient alors prévisible. Les deux paragraphes qui vont suivre explorerons les avantages que l'on peut tirer d'une reconnaissance efficace et les dangers qui apparaissent lorsque celle-ci est négligée.  
 
