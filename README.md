@@ -15,7 +15,7 @@ Dans celle-ci, on cherchera a mettre en place plusieurs modèles puis on compare
 ## Contexte  
 On cherche ici a démontrer l'importance du renseignement pour les armées, ainsi que son rôle dans la mise en place d'une stratégie pertiente. En guise d'introduction, on pourra réfléchir a la phrase suivante, énoncée dans l'Art de la Guerre[[2]](#ref2), de Sun Tzu : "l'opportunité de vaincre l'ennemi est fourni par l'ennemi lui-même". Celle-ci illustre bien la nécessitée d'observer le dispositif adverse afin d'y détecter une faille, et met en valeur l'importance de la prise d'information dans la victoire.  
 
-### Le renseignement, un atout précieux  
+#### Le renseignement, un atout précieux  
 On peut déja ségmenter le sujet en deux aspects, les renseignements nous possédons sur l'ennemi, et ceux que l'ennemi possède sur nous.  
 Pour avoir une vue complète de la situation, il est plus nécessaire de subdiviser encore le problème, en définissant des sous-catégories propres à chacun des référentiels. Ainsi, on définit les renseignements que nous possèdons sur l'ennemi et ceux que l'on pense qu'il possède sur nous, de même, on définit les renseignements que l'ennemi possède sur nous, et ceux qu'il pense que nous possédons sur lui. L'analyse de ces quatre quantitées est essentielle pour appréhender le succès ou l'échec des plans mis en place. Aussi, pour simplifier les choses, ne ne garderons que les élements de notre référentiel. Les deux paragraphes qui vont suivre explorerons les avantages que l'on peut tirer d'une reconnaissance efficace et les dangers qui apparaissent lorsque celle-ci est négligée.  
 
@@ -25,7 +25,7 @@ A l'opposée, l'histoire nous propose une multitude de batailles perdues a cause
 
 On voit ainsi que la capacité a obtenir du renseignement fiable est déterminante dans l'établissement d'une supériorité sur le terrain. Et même si la gloire revient souvent a celui qui a implementé le plan, il ne faut pas oublier que des informations pertinentes sont toujours à la base des stratégies victorieuses.  
 
-### Le renseignement en pratique  
+#### Le renseignement en pratique  
 Historiquement, la prise de renseignement était réalisée par les éclaireurs, des régiments de cavalerie légère. De nos jours, cette tâche s'est adaptée à la guerre moderne, et est décomposé en 4 niveaux : Humain, Electromagnétique, Image et Cyber. Pour ce projet, nous allons nous restreindre à la partie Imagerie. Celle-ci est principalement réalisée par des drones et des satellites. Par exemple, l'OTAN possède actuellement 5 RQ-4 Global Hawk[[6]](#ref6), dont les optiques sont capables de surveiller l'Ukraine depuis la Roumanie et la Mer Noire. La France dispose également, grâce a Airbus, de la constellation des 2 satellites Pléiades[[7]](#ref7), capable de photographier jusqu'a 20km de terrain avec une précision de 50cm. On peut aussi citer les 3 satellites CERES[[8]](#ref8), chargés de collecter du renseignement d'origine électromagnétique.
 
 Ces systèmes génèrent de nombreuses données, dont il faut extraire les informations d'intelligence stratégique, par des moyens humains ou algorithmiques. Une fois ces informations vérifiés, elles sont transmisent dans des rapports au commandement. Pour l'Armée Française et ses alliés, les rapports de reconnaissance suivent les normes au Standard OTAN, définies dans le document STANAG 3596[[9]](#ref9), établi en 2003.  
