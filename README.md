@@ -33,6 +33,7 @@ Ces systèmes génèrent de nombreuses données dont il faut extraire les inform
 ## Stratégie et hypothèses de l'étude
 Le STANAG 3596 définie une importante quantité de cibles ainsi que plusieurs niveaux permettant de fournir une évaluation exploitable de leur état. Pour ce projet, nous allons nous concentrer sur les objets de type "aéronefs".
 Les images utilisé seront prise selon un angle NADIR.
+Données optiques
 On se concentre uniquement sur les images satellites pour les avions
 On cherche a reconnaire le type d'avions
 <br>
