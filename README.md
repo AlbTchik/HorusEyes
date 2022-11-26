@@ -49,6 +49,13 @@ Ce qui pose la question suivante :
 <br>
 
 
+Malheureusement les résultats obtenus sont d'une trop grande qualité pour pouvoir être publiées sans restriction sur internet. Les modèles obtiennent plus de 99% de précision en essyant de détécter des avions militaires américains. Voici un aprécu des résultats : 
+
+![EfficientNetV2L_0 9959_0 0095](https://user-images.githubusercontent.com/90097422/204082669-658562e3-bfe7-43ad-a545-48bd243e01f6.png)
+
+![EfficientNetV2L_0 9959_0 0095(1)](https://user-images.githubusercontent.com/90097422/204082672-23b89528-88e6-45f0-9b1d-3a3c99e4275b.png)
+
+
 ## Bibliographie de l'introduction
 
 <a name="ref1">[1]</a> : [Contenu de la formation MS IA à Télécom](https://www.telecom-paris.fr/fr/masteres-specialises/formation-intelligence-artificielle)  
