@@ -54,7 +54,7 @@ Malheureusement les résultats seront soumis au secret militaire du fait de leur
 
 ![EfficientNetV2L_0 9959_0 0095(1)](https://user-images.githubusercontent.com/90097422/204082672-23b89528-88e6-45f0-9b1d-3a3c99e4275b.png)
 
-Si vous souhaitez plus d'informations, vous pouvez demander l'article complet a l'adresse suivante : albantchik@gmail.com
+Si vous souhaitez plus d'informations, vous tenter de demander l'article complet en utilisant l'adresse mail suivante : albantchik@gmail.com
 
 
 ## Bibliographie
