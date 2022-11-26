@@ -48,14 +48,16 @@ Ce qui pose la question suivante :
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
 
 
-Malheureusement les résultats obtenus sont d'une trop grande qualité pour pouvoir être publiées sans restriction sur internet. Voici, par exemple, les résultats de l'entrainement d'un modèle obtenenant 99,6% de précision pour la détection d'avions militaires américains : 
+Malheureusement les résultats seront soumis au secret militaire du fait de leur trop grande performance. Voici, par exemple, les résultats pour l'entrainement d'un modèle obtenenant 99,6% de précision pour la détection d'avions militaires américains : 
 
 ![EfficientNetV2L_0 9959_0 0095](https://user-images.githubusercontent.com/90097422/204082669-658562e3-bfe7-43ad-a545-48bd243e01f6.png)
 
 ![EfficientNetV2L_0 9959_0 0095(1)](https://user-images.githubusercontent.com/90097422/204082672-23b89528-88e6-45f0-9b1d-3a3c99e4275b.png)
 
+Si vous souhaitez plus d'informations, vous pouvez demander l'article complet a l'adresse suivante : albantchik@gmail.com
 
-## Bibliographie de l'introduction
+
+## Bibliographie
 
 <a name="ref1">[1]</a> : [Contenu de la formation MS IA à Télécom](https://www.telecom-paris.fr/fr/masteres-specialises/formation-intelligence-artificielle)  
 <a name="ref2">[2]</a> : [Résumé et critique de "L'Art de la Guerre"](https://www.getstoryshots.com/fr/books/the-art-of-war-summary/)  
