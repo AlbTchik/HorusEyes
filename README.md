@@ -45,8 +45,7 @@ Ce qui pose la question suivante :
 **Comment modéliser et évaluer les performances d'un algorithme de reconnaissance d'aéronefs appliqué a l'imagerie satellite et ses contraintes ?**
 <br>
 
-## Etat de l'art 
-<br>
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
 
 
 Malheureusement les résultats obtenus sont d'une trop grande qualité pour pouvoir être publiées sans restriction sur internet. Voici, par exemple, les résultats de l'entrainement d'un modèle obtenenant 99,6% de précision pour la détection d'avions militaires américains : 
