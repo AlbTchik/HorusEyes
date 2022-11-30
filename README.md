@@ -48,7 +48,7 @@ Ce qui pose la question suivante :
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
 
 
-Malheureusement les résultats seront soumis au secret militaire du fait de leur trop grande performance. Voici, par exemple, les résultats obtenu pendant l'entrainement d'un modèle pour la détection d'avions militaires américains (la précision est de 99,6% sur les données de test) : 
+Malheureusement les résultats seront tenus secrets. Voici, par exemple, les résultats obtenus pendant l'entrainement d'un modèle pour la détection d'avions militaires américains (la précision est de 99,6% sur les données de test) : 
 
 ![EfficientNetV2L_0 9959_0 0095](https://user-images.githubusercontent.com/90097422/204082669-658562e3-bfe7-43ad-a545-48bd243e01f6.png)
 
