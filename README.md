@@ -46,15 +46,18 @@ Ce qui pose la question suivante :
 <br>
 
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
-## Conclusion
 
-Malheureusement il a été décidé que les résultats et leurs interprétations ne seraient pas dévoilés. Cependant, en tant qu'amende honorable, vous pouvez observer les résultats obtenus pendant l'entrainement d'un modèle pour la détection d'avions militaires américain. La précision est de 99,6% sur les données de test : 
+La suite de ces recherches n'est pas disponible dans sa version publique.
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+
+Il a été décidé que les techniques utilisées et leurs interprétations des résultats ne seraient pas dévoilés. Cependant, vous pouvez quand même observer les graphiques obtenus lors de l'entrainement d'un modèle pour la détection d'avions militaires américain. La précision étant de 99,6% sur les données de test, ces résultats permettent de repousser significativement les limites de l'état de l'art sur un jeu de données de réference : 
 
 ![EfficientNetV2L_0 9959_0 0095](https://user-images.githubusercontent.com/90097422/204082669-658562e3-bfe7-43ad-a545-48bd243e01f6.png)
 
 ![EfficientNetV2L_0 9959_0 0095(1)](https://user-images.githubusercontent.com/90097422/204082672-23b89528-88e6-45f0-9b1d-3a3c99e4275b.png)
 
-Si vous souhaitez plus d'informations, je vous recommande de demander le rapport complet de me recherche en utilisant l'adresse suivante : albantchik@gmail.com
+Si vous souhaitez plus d'informations, vous pouvez consulter le rapport complet de mes recherches en me contactant à l'adresse suivante : albantchik@gmail.com
 
 
 ## Bibliographie
