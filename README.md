@@ -60,7 +60,7 @@ Il a été décidé que les techniques utilisées et leurs interprétations des 
 Si vous souhaitez plus d'informations, vous pouvez consulter le rapport complet de mes recherches en me contactant à l'adresse suivante : albantchik@gmail.com
 
 
-## Bibliographie
+## Bibliographie non scientifique
 
 <a name="ref1">[1]</a> : [Contenu de la formation MS IA à Télécom](https://www.telecom-paris.fr/fr/masteres-specialises/formation-intelligence-artificielle)  
 <a name="ref2">[2]</a> : [Résumé et critique de "L'Art de la Guerre"](https://www.getstoryshots.com/fr/books/the-art-of-war-summary/)  
