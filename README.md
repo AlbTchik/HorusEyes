@@ -57,7 +57,7 @@ Il a été décidé que les techniques utilisées et leurs interprétations des 
 
 ![EfficientNetV2L_0 9959_0 0095(1)](https://user-images.githubusercontent.com/90097422/204082672-23b89528-88e6-45f0-9b1d-3a3c99e4275b.png)
 
-Si vous souhaitez plus d'informations, vous pouvez consulter le rapport complet de mes recherches en me contactant à l'adresse suivante : albantchik@gmail.com
+Si vous souhaitez plus d'informations, vous pouvez demander l'accès au repértoire conteant l'intégralité de mes recherches via l'adresse suivante : albantchik@gmail.com
 
 
 ## Bibliographie non scientifique
