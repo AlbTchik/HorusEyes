@@ -57,6 +57,8 @@ Il a été décidé que les techniques utilisées et leurs interprétations des 
 
 ![EfficientNetV2L_0 9959_0 0095(1)](https://user-images.githubusercontent.com/90097422/204082672-23b89528-88e6-45f0-9b1d-3a3c99e4275b.png)
 
+![exemple F-4 Phantom](https://user-images.githubusercontent.com/90097422/216322917-d1b89fc9-dcf9-47ce-ad76-de1be410d55d.png)
+
 ![SUV_041_jpg rf daf1073e2f5cb4630bd7d1d996b2ae41](https://user-images.githubusercontent.com/90097422/215987708-336547bc-ebd9-4fa8-aad5-de1af5e5d43f.jpg)
 
 
