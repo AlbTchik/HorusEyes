@@ -51,7 +51,7 @@ La suite de ces recherches n'est pas disponible dans sa version publique.
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
 
 
-Il a été décidé que les techniques utilisées et leurs interprétations des résultats ne seraient pas dévoilés. Cependant, vous pouvez quand même observer les graphiques obtenus lors de l'entrainement d'un modèle pour la détection d'avions militaires américain. La précision étant de 99,6% sur les données de test, ces résultats permettent de repousser significativement les limites de l'état de l'art sur un jeu de données de réference : 
+Il a été décidé que les techniques utilisées et leurs interprétations des résultats ne seraient pas dévoilés. Cependant, vous pouvez quand même observer les graphiques obtenus lors de l'entrainement d'un modèle pour la détection d'avions militaires américain. La précision étant supérieur à 95% sur les données de test, ces résultats permettent de repousser significativement les limites de l'état de l'art disponible publiquement : 
 
 ![EfficientNetV2L_0 9959_0 0095](https://user-images.githubusercontent.com/90097422/204082669-658562e3-bfe7-43ad-a545-48bd243e01f6.png)
 
