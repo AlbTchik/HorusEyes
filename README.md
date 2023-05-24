@@ -62,7 +62,7 @@ Il a été décidé que les techniques utilisées et leurs interprétations des 
 ![SUV_041_jpg rf daf1073e2f5cb4630bd7d1d996b2ae41](https://user-images.githubusercontent.com/90097422/215987708-336547bc-ebd9-4fa8-aad5-de1af5e5d43f.jpg)
 
 
-Si vous souhaitez plus d'informations, vous pouvez demander l'accès au résumé de l'intégralité de mes recherches via l'adresse suivante : albantchik@gmail.com
+Si vous souhaitez plus d'informations, vous pouvez demander l'accès a l'intégralité de mes recherches via l'adresse suivante : albantchik@gmail.com
 
 
 ## Bibliographie non scientifique
